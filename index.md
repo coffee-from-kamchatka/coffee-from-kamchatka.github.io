@@ -61,24 +61,21 @@
 ---
 
 ### Локализация
-
 Мы занимаемся локализацией Resonite для русскоязычного сообщества:
   - [Здесь](https://github.com/coffee-from-kamchatka/RU-Localization)
 
 ### Документация
-
 (WIP) Мы занимаемся написанием неофицальной документации Resonite для русскоязычного сообщества.
   - [Здесь](https://github.com/coffee-from-kamchatka/Resonite-Russian-Documentation)
   - [На сайте](/docs)
 
 ### И не ограничиваемся только этими проектами
-
 У нас их гораздо больше.
 
 Наши контакты:
 ---
-
 ### [Telegram](https://t.me/+eG4J6mPJZnAxZDRi)
 ### [Discord](https://discord.gg/RQtNZQfkSA)
 ### [(Основная сессия) Resonite](https://go.resonite.com/session/S-U-PIKPIK:CoffeeFromKamchatka)
 ### [Группы VR Chat](https://vrc.group/CFK.7943) CFK.7943
+### [Почта](mailto:coffee-from-kamchatka@outlook.com)
