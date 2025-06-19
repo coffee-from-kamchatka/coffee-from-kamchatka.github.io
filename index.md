@@ -47,12 +47,12 @@
 ### Локализация
 
 Мы занимаемся локализацией Resonite для русскоязычного сообщества:
-  - https://github.com/coffee-from-kamchatka/RU-Localization
+  - [Здесь](https://github.com/coffee-from-kamchatka/RU-Localization)
 
 ### Документация
 
 (WIP) Мы занимаемся написанием неофицальной документации Resonite для русскоязычного сообщества.
-  - https://github.com/coffee-from-kamchatka/Resonite-Russian-Documentation
+  - [Здесь](https://github.com/coffee-from-kamchatka/Resonite-Russian-Documentation)
   - [На сайте](/docs)
 
 ### И не ограничиваемся только этими проектами
