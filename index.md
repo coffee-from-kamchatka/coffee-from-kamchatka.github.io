@@ -8,7 +8,8 @@
 Кто мы такие?
 ---
 
-### > Мы творческий коллектив пользователей Resonite которые хотим делать разные вещи и проекты.
+### О нас
+Мы творческий коллектив пользователей Resonite которые хотим делать разные вещи и проекты.
 
 ### Ключевые платформы:
  - Resonite (Основная)
@@ -17,44 +18,44 @@
 
 ### Ключевые пользователи сообщества:
 #### AlexTaco-Anton:
-> Resonite: AlexTaco-Anton
-> VR Chat: [alextaco-anton]()
-> Chillout VR: AlexTaco-Anton
-> GitHub: [@AntonBoch1244](https://github.com/antonboch1244)
-> Роль: Владелец
-> Об участнике:
-> > // WIP
+> - Resonite: AlexTaco-Anton
+> - VR Chat: [alextaco-anton]()
+> - Chillout VR: AlexTaco-Anton
+> - GitHub: [@AntonBoch1244](https://github.com/antonboch1244)
+> - Роль: Владелец
+> - Об участнике:
+> - > // WIP
 
 #### MrSetto:
-> Resonite: MrSetto
-> VR Chat: [MrSetto]()
-> GitHub: [@MrSetto](https://github.com/mrsetto)
-> Роль: Медиа-менеджер, Ментор
-> Об участнике:
-> > // WIP
+> - Resonite: MrSetto
+> - VR Chat: [MrSetto]()
+> - GitHub: [@MrSetto](https://github.com/mrsetto)
+> - Роль: Медиа-менеджер, Ментор
+> - Об участнике:
+> - > // WIP
 
 #### GhostZ36:
-> Resonite: GhostZ36
-> GitHub: [@GhostZ36](https://github.com/ghostz36)
-> Роль: Ментор
-> Об участнике:
-> > // WIP
+> - Resonite: GhostZ36
+> - GitHub: [@GhostZ36](https://github.com/ghostz36)
+> - Роль: Ментор
+> - Об участнике:
+> - > // WIP
 
 #### demonzla:
-> Resonite: Demonzla
-> VR Chat: [demonzla]()
-> GitHub: [@demonzla](https://github.com/demonzla)
-> Роль: Администратор
-> Об участнике:
-> > // WIP
+> - Resonite: Demonzla
+> - VR Chat: [demonzla]()
+> - GitHub: [@demonzla](https://github.com/demonzla)
+> - Роль: Администратор
+> - Об участнике:
+> - > // WIP
 
 #### ValkaTR:
-> Resonite: ValkaTR
-> VR Chat: [ValkaTR]()
-> Сайт: [PIK-PIK.ee](https://pik-pik.ee/)
-> Роль: Администоратор серверв
-> Об участнике:
-> > // WIP
+> - Resonite: ValkaTR
+> - VR Chat: [ValkaTR]()
+> - Сайт: [PIK-PIK.ee](https://pik-pik.ee/)
+> - Роль: Администоратор серверв
+> - Об участнике:
+> - > // WIP
 
 Проекты:
 ---
