@@ -65,11 +65,9 @@
   - [Здесь](https://github.com/coffee-from-kamchatka/RU-Localization)
 
 ### Документация
-(WIP) Мы занимаемся написанием неофицальной документации Resonite для русскоязычного сообщества.
+Мы занимаемся написанием неофицальной документации Resonite для русскоязычного сообщества.
   - [Здесь](https://github.com/coffee-from-kamchatka/Resonite-Russian-Documentation)
-    // WIP
   - [На сайте](/docs)
-    // WIP
 
 ### И не ограничиваемся только этими проектами
 У нас их гораздо больше.
