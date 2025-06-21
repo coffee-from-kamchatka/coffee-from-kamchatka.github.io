@@ -19,7 +19,7 @@
 ### Ключевые пользователи сообщества:
 #### AlexTaco-Anton:
 > - Resonite: AlexTaco-Anton
-> - VR Chat: [alextaco-anton]()
+> - VR Chat: [alextaco-anton](https://vrchat.com/home/user/usr_b748f9c7-b032-47fc-836a-41c6e1ee8fd4)
 > - Chillout VR: AlexTaco-Anton
 > - GitHub: [@AntonBoch1244](https://github.com/antonboch1244)
 > - Роль: Владелец
@@ -28,9 +28,9 @@
 
 #### MrSetto:
 > - Resonite: MrSetto
-> - VR Chat: [MrSetto]()
+> - VR Chat: [MrSetto](https://vrchat.com/home/user/usr_3a5648bc-e0a0-4f0a-8232-0212412fdb23)
 > - GitHub: [@MrSetto](https://github.com/mrsetto)
-> - Роль: Медиа-менеджер, Ментор
+> - Роль: PR-менеджер, Ментор
 > - Об участнике:
 > - > // WIP
 
@@ -43,7 +43,7 @@
 
 #### demonzla:
 > - Resonite: Demonzla
-> - VR Chat: [demonzla]()
+> - VR Chat: [demonzla](https://vrchat.com/home/user/usr_f4fe7eb0-337f-4555-a8ac-bf761cf1821b)
 > - GitHub: [@demonzla](https://github.com/demonzla)
 > - Роль: Администратор
 > - Об участнике:
@@ -51,9 +51,9 @@
 
 #### ValkaTR:
 > - Resonite: ValkaTR
-> - VR Chat: [ValkaTR]()
+> - VR Chat: [ValkaTR](https://vrchat.com/home/user/usr_65667820-4ca2-4fbc-8570-bbc9c2fdf05c)
 > - Сайт: [PIK-PIK.ee](https://pik-pik.ee/)
-> - Роль: Администоратор серверв
+> - Роль: Администратор сервера
 > - Об участнике:
 > - > // WIP
 
