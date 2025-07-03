@@ -24,7 +24,9 @@
 > - GitHub: [@AntonBoch1244](https://github.com/antonboch1244)
 > - Роль: Владелец
 > - Об участнике:
-> - > // WIP
+> - > VR фотограф, основатель сообщества Coffee from Kamchatka, модератор сообщества Irix models & friends / TeamTaidum
+>   > Занимается проектом локализации Resonite
+>   > Участвует в митапах и проводит митапы в рамках сообществ Coffee from Kamchatka и TeamTaidum
 
 #### MrSetto:
 > - Resonite: MrSetto
@@ -32,14 +34,15 @@
 > - GitHub: [@MrSetto](https://github.com/mrsetto)
 > - Роль: PR-менеджер, Ментор
 > - Об участнике:
-> - > // WIP
+> - > Занимается привлечением аудитории в нашем сообществе
+>   > Благодаря его участию сообщество смогло получить баджи MMC25 за проект "Project "Golden Star""
 
 #### GhostZ36:
 > - Resonite: GhostZ36
 > - GitHub: [@GhostZ36](https://github.com/ghostz36)
 > - Роль: Ментор
 > - Об участнике:
-> - > // WIP
+> - > Предпочитает не святиться, но знает Blender и Substance Painter
 
 #### demonzla:
 > - Resonite: Demonzla
@@ -47,7 +50,8 @@
 > - GitHub: [@demonzla](https://github.com/demonzla)
 > - Роль: Администратор
 > - Об участнике:
-> - > // WIP
+> - > Коллумнист, философ и просто надежный человек.
+>   > Является SysOps в реальной жизни
 
 #### ValkaTR:
 > - Resonite: ValkaTR
@@ -55,7 +59,8 @@
 > - Сайт: [PIK-PIK.ee](https://pik-pik.ee/)
 > - Роль: Администратор сервера
 > - Об участнике:
-> - > // WIP
+> - > Фотограф и администратор сервера для постоянной сессии в Resonite
+>   > Является SysOps в нашем сообществе
 
 Проекты:
 ---
