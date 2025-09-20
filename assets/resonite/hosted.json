@@ -1,0 +1,20 @@
+[
+  {
+    "event_id": "W_CFK",
+    "name": "Weekly Coffee from Kamchatka Russian Community Meetup",
+    "start_time": "2025W016T140000Z",
+    "end_time": "2025W016T160000Z",
+    "location": "[RU/EN] Coffee from Kamchatka",
+    "session_url": "ressession:///S-U-PIKPIK:CoffeeFromKamchatka",
+    "description": "Еженедельная встреча русского сообщества Coffee from Kamchatka"
+  },
+  {
+    "event_id": "TT_W_CFK",
+    "name": "TeamTaidum Community Meetup",
+    "start_time": "2025W227T150000Z",
+    "end_time": "2025W227T170000Z",
+    "location": "[RU/EN] Coffee from Kamchatka",
+    "session_url": "ressession:///S-U-PIKPIK:CoffeeFromKamchatka",
+    "description": "Weekly TeamTaidum Meetup in Resonite"
+  }
+]
