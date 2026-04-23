@@ -10,11 +10,11 @@
   },
   {
     "event_id": "TT_W_CFK",
-    "name": "Weekly TeamTaidum Community Meetup",
+    "name": "Bi-weekly TeamTaidum Community Meetup",
     "start_time": "2025W227T150000Z",
     "end_time": "2025W227T170000Z",
     "location": "[RU/EN] Coffee from Kamchatka",
     "session_url": "ressession:///S-U-PIKPIK:CoffeeFromKamchatka",
-    "description": "Weekly TeamTaidum Meetup in Resonite"
+    "description": "Bi-weekly TeamTaidum Meetup in Resonite"
   }
 ]
