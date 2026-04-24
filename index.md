@@ -20,9 +20,8 @@
 #### AlexTaco-Anton:
 > - Resonite: AlexTaco-Anton
 > - VR Chat: [alextaco-anton](https://vrchat.com/home/user/usr_b748f9c7-b032-47fc-836a-41c6e1ee8fd4)
-> - Chillout VR: AlexTaco-Anton
 > - GitHub: [@AntonBoch1244](https://github.com/antonboch1244)
-> - Роль: Владелец
+> - Роль: Шеф
 > - Об участнике:
 > - > VR фотограф, основатель сообщества Coffee from Kamchatka, модератор сообщества Irix models & friends / TeamTaidum
 >   > 
@@ -38,7 +37,8 @@
 > - Об участнике:
 > - > Занимается привлечением аудитории в нашем сообществе
 >   > 
->   > Благодаря его участию сообщество смогло получить баджи MMC25 за проект "Project "Golden Star""
+>   > Участник MMC25 (Project "Golden Star") и MMC26 (Local Gizmo, Potion Laboratory)
+>   > Занимается проектами INCREDIBOX (port), Prison Escape (port)
 
 #### GhostZ36:
 > - Resonite: GhostZ36
@@ -46,6 +46,8 @@
 > - Роль: Ментор
 > - Об участнике:
 > - > Предпочитает не святиться, но знает Blender и Substance Painter
+>   > 
+>   > Является постоянным участником MMC
 
 #### demonzla:
 > - Resonite: Demonzla
