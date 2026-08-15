@@ -1,20 +1,19 @@
-Добро пожаловать на сайт Русскоязычного сообщества Coffee from Kamchatka
+Добро пожаловать на сайт русскоязычного сообщества Coffee from Kamchatka
 ===
 
 # Языки / Languages
- - [English (United States)](index.en.md)
+ - English (United States)
    // WIP
 
-Кто мы такие?
+# Кто мы такие?
 ---
 
 ### О нас
-Мы творческий коллектив пользователей Resonite которые хотим делать разные вещи и проекты.
+Мы являемся творческим коллективом пользователей Resonite которые хотят делать разные вещи и проекты.
 
 ### Ключевые платформы:
  - Resonite (Основная)
  - VR Chat
- - Chillout VR
 
 ### Ключевые пользователи сообщества:
 #### AlexTaco-Anton:
@@ -27,13 +26,13 @@
 >   > 
 >   > Занимается проектом локализации Resonite
 >   > 
->   > Участвует в митапах и проводит митапы в рамках сообществ Coffee from Kamchatka и TeamTaidum
+>   > Участвует и организует мероприятия сообществ Coffee from Kamchatka и TeamTaidum
 
 #### MrSetto:
 > - Resonite: MrSetto
 > - VR Chat: [MrSetto](https://vrchat.com/home/user/usr_3a5648bc-e0a0-4f0a-8232-0212412fdb23)
 > - GitHub: [@MrSetto](https://github.com/mrsetto)
-> - Роль: PR-менеджер, Ментор
+> - Роль: Ментор
 > - Об участнике:
 > - > Занимается привлечением аудитории в нашем сообществе
 >   > 
@@ -45,7 +44,7 @@
 > - GitHub: [@GhostZ36](https://github.com/ghostz36)
 > - Роль: Ментор
 > - Об участнике:
-> - > Предпочитает не святиться, но знает Blender и Substance Painter
+> - > Предпочитает не светиться, но знает Blender и Substance Painter
 >   > 
 >   > Является постоянным участником MMC
 
@@ -53,9 +52,9 @@
 > - Resonite: Demonzla
 > - VR Chat: [demonzla](https://vrchat.com/home/user/usr_f4fe7eb0-337f-4555-a8ac-bf761cf1821b)
 > - GitHub: [@demonzla](https://github.com/demonzla)
-> - Роль: Администратор
+> - Роль: Администратор (запас)
 > - Об участнике:
-> - > Коллумнист, философ и просто надежный человек.
+> - > Просто надежный человек.
 >   > 
 >   > Является SysOps в реальной жизни
 
@@ -69,7 +68,12 @@
 >   > 
 >   > Является SysOps в нашем сообществе
 
-Проекты:
+#### 'SELICA'
+> - Resonite: SELICA
+> - VR Chat: ['SELICA'](https://vrchat.com/home/user/usr_902fb2fd-60e3-46e3-b9ca-f0635a55384e)
+> - Роль: Менеджер сообщества/Модератор по направлению VR Chat
+
+# Проекты:
 ---
 
 ### Локализация
@@ -80,6 +84,7 @@
 Мы занимаемся написанием неофицальной документации Resonite для русскоязычного сообщества.
   - [Здесь](https://github.com/coffee-from-kamchatka/Resonite-Russian-Documentation)
   - [На сайте](/docs)
+    // WIP
 
 ### И не ограничиваемся только этими проектами
 У нас их гораздо больше.
@@ -91,3 +96,4 @@
 ### [(Основная сессия) Resonite](https://go.resonite.com/session/S-U-PIKPIK:CoffeeFromKamchatka)
 ### [Группы VR Chat](https://vrc.group/CFK.7943) CFK.7943
 ### [Почта](mailto:coffee-from-kamchatka@outlook.com)
+
